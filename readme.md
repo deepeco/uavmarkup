@@ -23,7 +23,7 @@ deep learning approach.
 5. You can use MS Paint to find coordinates of object's bounding box and MS Excel
    to fill up the csv file.
 
-    ![Sample Image](https://raw.githubusercontent.com/deepeco/uavmarkup/master/images/select_obj.png =700x)
+    ![Sample Image](https://raw.githubusercontent.com/deepeco/uavmarkup/master/images/select_obj.png)
 
 6. If objects are overlapped, the object which is marked up with the bounding box (bbox) should cover at least 50% of the bbox area (the more the better).
 
